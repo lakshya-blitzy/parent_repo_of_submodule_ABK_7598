@@ -1,0 +1,6 @@
+[submodule "services/customer-orders-api"]
+	path = services/customer-orders-api
+	url = https://github.com/lakshya-blitzy/child_one_repo_of_submodule_ABK_7598.git
+[submodule "services/warehouse-catalogue-api"]
+	path = services/warehouse-catalogue-api
+	url = https://github.com/lakshya-blitzy/child_two_repo_of_submodule_ABK_7598.git
