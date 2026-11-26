@@ -1,5 +1,7 @@
 # Parent Repository — Submodule Scan Fixture
 
+..
+
 This repository is intentionally metadata-only. It contains no application source and no tests of its own.
 
 The application code lives in two independent Git submodules:
